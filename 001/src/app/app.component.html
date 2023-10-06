@@ -1,0 +1,13 @@
+<h1>Hola {{title}}</h1>
+<button (click)="changeTitle()" mat-raised-button color="basic">Cambiar el titulo 1</button>
+<button (click)="changeTitle2()" mat-raised-button color="primary">Cambiar el titulo 0</button>
+
+<ul>
+    <li>
+        <a routerLink="/products">Productos</a><br>
+        <a routerLink="/contact">Contactos</a>
+    </li>
+</ul>
+
+
+<router-outlet></router-outlet>
