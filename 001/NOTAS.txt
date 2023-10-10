@@ -10,4 +10,3 @@ se realizó:
 	- cambiar el titulo de cada ruta de manera dinamica
 	- crear rutas
 	- se utilizó api para recojer datos y lo principal esta haciendo lazyloading
-	
