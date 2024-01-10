@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=jkdLRbrJj9M&list=WL&index=1
+
+Login + components + routing + forms + services + observables + http. 
